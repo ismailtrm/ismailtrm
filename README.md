@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İsmail Tarım</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [TEKNOFEST, FRC](@gokboru-dev, @izelman-robotics)
+- 🔭 I’m currently working on [TEKNOFEST, FRC](@gokboru-dev , @izelman-robotics)
 
 - 🌱 I’m currently learning **Python and Java**
 

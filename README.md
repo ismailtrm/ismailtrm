@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TEKNOFEST, FRC](@gokboru-dev , @izelman-robotics)
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **ismailtarim7@gmail.com**
 

@@ -1,5 +1,5 @@
-# About Me:
-I’m currently working on Full Stack Development<br> I’m looking to collaborate on MCPs<br> I’m currently learning Docker<br> Ask me about Agentic Systems
+# 🚀About Me:
+🔭 I’m currently working on Full Stack Development<br>🤝 I’m looking to collaborate on MCPs<br>🌱 I’m currently learning Docker<br>💬 Ask me about Agentic Systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailtarim) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ismailtarim7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ismail-bo7sz) 

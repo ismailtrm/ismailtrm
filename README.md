@@ -30,7 +30,7 @@ I’m currently working on Full Stack Development<br> I’m looking to collabora
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ismailtrm&theme=dark&hide_border=false)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtrm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtrm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ismailtrm&icon=0&color=0)](https://visitcount.itsvg.in)
